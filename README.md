@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Entertainment Rolodex
+
+- This app lists all the upcoming titles upon selection of title type and genre. 
+- It uses RapidAPI's movie database API to fetch the data. 
+- All the title types and genre options are dynamic and fetched during rendering
+- Please refer this page to get access to the API key: https://rapidapi.com/SAdrian/api/moviesdatabase
+
+# Getting Started with the App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
